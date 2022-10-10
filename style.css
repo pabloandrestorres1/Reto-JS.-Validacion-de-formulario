@@ -1,0 +1,77 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    background-color: black;
+}
+#img1{
+    margin-left: 40%;
+    width: 20%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+form{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#nom{
+    width: 25%;
+}
+#ap{
+    width: 24.3%;
+}
+#email{
+    width: 26%;
+}
+#tel{
+    width: 25%;
+}
+#dni{
+    width: 27%;
+}
+#iban{
+    width: 26.5%;
+}
+#swift{
+    width: 26%;
+}
+#nomus{
+    width: 20.6%;
+}
+#fecnac{
+    width: 20.2%;
+}
+
+#submit{
+    width: 20%;
+    
+}
+#reset{
+    width: 20%;
+}
+
+#img2{
+    width: 9%;
+    margin-left: 16%;
+    margin-bottom: 2%;
+}
+#img3{
+    width: 6%;
+    margin-left: 12%;
+}
+#img4{
+    width: 9%;
+    margin-left: 12%;
+    margin-bottom: 2%;
+}
+#img5{
+    width: 10%;
+    margin-left: 9%;
+    margin-bottom: 1%;
+}
